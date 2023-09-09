@@ -1,2 +1,1 @@
-# jest-tutorial
-Learning jest-Js Testing
+# Jest Tutorials & Progress Tracker
